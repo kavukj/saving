@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jain-savings/static/css/main.36e0407c.css",
+    "main.js": "/jain-savings/static/js/main.bddc174e.js",
+    "static/js/453.c316c14f.chunk.js": "/jain-savings/static/js/453.c316c14f.chunk.js",
+    "index.html": "/jain-savings/index.html",
+    "main.36e0407c.css.map": "/jain-savings/static/css/main.36e0407c.css.map",
+    "main.bddc174e.js.map": "/jain-savings/static/js/main.bddc174e.js.map",
+    "453.c316c14f.chunk.js.map": "/jain-savings/static/js/453.c316c14f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e0407c.css",
+    "static/js/main.bddc174e.js"
+  ]
+}

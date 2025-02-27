@@ -2,7 +2,7 @@
   "name": "savings",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kavukj.github.io/jain-savings/",
+  "homepage": "https://kavukj.github.io/saving/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

@@ -9,7 +9,7 @@ export default function ShowEntry() {
 
     // Fetch Data from JSON Server
     useEffect(() => {
-        fetch("http://localhost:5001/entries")
+        fetch("https://github.com/kavukj/saving/blob/master/data.json")
             .then((res) => res.json())
             .then((data) => setEntries(data))
             .catch((err) => console.error("Error fetching data:", err));
